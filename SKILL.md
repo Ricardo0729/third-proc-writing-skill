@@ -229,8 +229,8 @@ model: deepseek-v4-pro
 | `templates/领导讲话稿模板.md` | 讲话稿完整版（部署/总结/致辞） |
 | `templates/领导讲话稿模板-简版.md` | 讲话稿精简版 |
 | `templates/案件分析材料模板.md` | 类案分析 + 个案分析 |
-| `templates/函模板.md` | 函件模板（后续新增） |
-| `templates/通知模板.md` | 通知模板（后续新增） |
+| `templates/函模板.md` | 函件模板 |
+| `templates/通知模板.md` | 通知模板 |
 | `templates/提示函模板.md` | 提示函 |
 | `templates/质效分析模板.md` | 质效分析 |
 
@@ -250,6 +250,13 @@ model: deepseek-v4-pro
 | `references/使用示例.md` | 典型输入→输出对话示例 |
 | `references/快速入门指南.md` | **新手 3 分钟上手（本版新增）** |
 | `references/文种速查表.md` | **文种对照速查（本版新增）** |
+| `references/自查清单-用户提供版.md` | 用户版自查清单（7 维度，71 项） |
+| `references/标题模式-用户提供版.md` | 用户版标题格式 |
+| `references/常用表达-用户提供版.md` | 用户版常用句式 |
+| `references/风格规则-用户提供版.md` | 用户版风格规范 |
+| `references/风险规则-用户提供版.md` | 用户版风险规则 |
+| `references/部门画像-用户提供.md` | 部门职能画像与文风基准 |
+| `references/agent配置.md` | Agent 配置说明 |
 
 ### 📁 tests/ — 评估用例
 

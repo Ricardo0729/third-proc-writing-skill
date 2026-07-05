@@ -6,6 +6,19 @@
 - SKILL.md 重构为渐进式披露，新增文件索引导航
 - 新增 references/快速入门指南.md（3 分钟上手）
 - 新增 references/文种速查表.md（文种对照速查）
+- 13 个模板全面增强：每文种新增 YAML frontmatter、示例和错误分析
+- 新增 templates/函模板.md 和 templates/通知模板.md
+- 自查清单从 24 项扩展至 112 项（7 维度：格式、内容、脱敏、语言、逻辑、文种专有、发文前）
+- 同步更新 references/自查清单-用户提供版.md 为 7 维度结构
+- 新增 LICENSE（MIT）
+- 完善 README.md，增加徽章、项目结构树、学习路径
+- 新增 tests/eval/ 目录及 8 份按文种分类的专项评估用例
+- 所有模板增加 YAML 元数据 frontmatter
+
+### 修复
+- CHANGELOG 补充完整 v2.0.0 条目
+- SKILL.md 文件索引补充 7 份用户提供版参考文件
+- 移除模板索引中过时的"（后续新增）"标注
 
 ## [1.5.0] — 2025-06-17
 
